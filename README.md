@@ -27,6 +27,8 @@
 ## 💻 Tools & Technologies
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=f89820)](#)&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
@@ -35,6 +37,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](#)&nbsp;&nbsp;
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
+
 
 
 
@@ -48,5 +51,4 @@
      <a href="https://www.instagram.com/harisbinrehan/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://wa.me/qr/UZZMVOQHH24DL1"><img title="Message me on Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
-
 <!-- For differnt icons I found this very useful.(https://github.com/alexandresanlim/Badges4-README.md-Profile) -->
