@@ -25,8 +25,17 @@
 
 
 ## 💻 Tools & Technologies
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
+[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
+[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=f89820)](#)&nbsp;&nbsp;
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;&nbsp;
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](#)&nbsp;&nbsp;
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
 
-- C++, Java, Python, Javascript, MERN
 
 
 
@@ -37,4 +46,5 @@
   <a href="https://twitter.com/harisbinrehan"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/harisbinrehan"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
      <a href="https://www.instagram.com/harisbinrehan/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/qr/UZZMVOQHH24DL1"><img title="Message me on Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
