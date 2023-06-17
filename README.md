@@ -4,6 +4,10 @@
 
 #### As a fresh graduate I want to pursue a job opportunity in a competitive environment that will change me to push my boundaries and expand my knowledge in the field of web development.
 
+
+
+
+
 ## 📚 Academic Experience
 
 <div style="line-height: 1.15">
@@ -17,9 +21,14 @@
 </div>
 
 
+
+
+
 ## 💻 Tools & Technologies
 
 - C++, Java, Python, Javascript, MERN
+
+
 
 <h2 align="left">🌐 How to connect?</h2>
 <p align="left">
