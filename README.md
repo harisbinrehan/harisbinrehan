@@ -48,3 +48,5 @@
      <a href="https://www.instagram.com/harisbinrehan/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://wa.me/qr/UZZMVOQHH24DL1"><img title="Message me on Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
+
+<!-- For differnt icons I found this very useful.(https://github.com/alexandresanlim/Badges4-README.md-Profile) -->
