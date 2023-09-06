@@ -2,16 +2,20 @@
 
 <h1 align="left">Hey, I'm <a href="https://www.linkedin.com/in/harisbinrehan/">Haris Bin Rehan</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-#### Associate Software Engineer at Qbatch
+# Associate Software Engineer at Qbatch
 
-
+## 📚 Inductry Experience
+<div style="line-height: 1.15">
+    <b>Associate Software Engineer - Qbatch </b>
+    <p>August 2023 - present</p>
+</div>
 
 
 
 ## 📚 Academic Experience
 <div style="line-height: 1.15">
     <b>Lab Instructor - NUCES Lahore </b>
-    <p>Data Structures</p>
+    <p>Data Structures (<p>September 2023 - present</p>)</p>
 </div>
 
 <div style="line-height: 1.15">
