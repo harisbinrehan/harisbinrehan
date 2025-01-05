@@ -4,14 +4,15 @@
 <div style="line-height: 1.15">
     <b>Software Engineer - DGlobal</b>
     <p>March 2024 - Present</p>
-    <p>As a Software Engineer - Solutions, I specialize in React, Jest for test cases, and have hands-on experience with Groovy, Microfrontends, and Ant Design (AntD). My role also involves working with Redux for state management and integrating with AWS services. I am actively involved in developing scalable and maintainable solutions for the business.</p>
+    <p>As a Software Engineer - Solutions, I specialize in <b>React</b> 🖥️, <b>Jest</b> 🧪 for test cases, and have hands-on experience with <b>Groovy</b> 📝, <b>Microfrontends</b> 🖱️, and <b>Ant Design (AntD)</b> 🎨. My role also involves working with <b>Redux</b> 🔄 for state management and integrating with <b>AWS</b> ☁️ services. I am actively involved in developing scalable and maintainable solutions for the business.</p>
 </div>
 
 <div style="line-height: 1.15">
     <b>Associate Software Engineer - Qbatch</b>
     <p>July 2023 - March 2024</p>
-    <p>At Qbatch, I worked as a MERN Stack Developer, gaining experience in building full-stack applications using MongoDB, Express, React, and Node.js. I was responsible for developing RESTful APIs, integrating Redux for state management, and performing unit testing using Mocha and Chai. Additionally, I implemented cron jobs for automating scheduled tasks and improved the scalability and performance of the application.</p>
+    <p>At Qbatch, I worked as a <b>MERN Stack Developer</b>, gaining experience in building full-stack applications using <b>MongoDB</b> 🍃, <b>Express</b> 🚀, <b>React</b> ⚛️, and <b>Node.js</b> 🌐. I was responsible for developing <b>RESTful APIs</b> 🌍, integrating <b>Redux</b> 🔄 for state management, and performing unit testing using <b>Mocha</b> 🧪 and <b>Chai</b> 🔍. Additionally, I implemented <b>Cron Jobs</b> 🕒 for automating scheduled tasks and improved the scalability and performance of the application.</p>
 </div>
+
 
 ## 📚 Academic Experience
 <div style="line-height: 1.15">
@@ -33,15 +34,17 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=f89820)](#)&nbsp;&nbsp;
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)](#)&nbsp;&nbsp;
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)](#)&nbsp;&nbsp;
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql)](#)&nbsp;&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)](#)&nbsp;&nbsp;
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)](#)&nbsp;&nbsp;
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](#)&nbsp;&nbsp;
+[![Groovy](https://img.shields.io/badge/Groovy-430074?style=flat&logo=groovy)](#)&nbsp;&nbsp;
+[![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=antdesign)](#)&nbsp;&nbsp;
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)](#)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;&nbsp;
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](#)&nbsp;&nbsp;
-<!--[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;-->
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
 
 <h2 align="left">🌐 How to connect?</h2>
