@@ -68,15 +68,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harisbinrehan&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisbinrehan&layout=compact&theme=radical">
-</p>
-
----
-
 ## 📬 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/harisbinrehan/">
