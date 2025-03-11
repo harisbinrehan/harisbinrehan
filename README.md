@@ -39,8 +39,8 @@
 | Course | Duration |
 |--------|----------|
 | Programming Fundamentals | Sep 2024 - Present |
+| OOP & Database Systems | Feb 2024 - Aug 2024 |
 | Data Structures | Sep 2023 - Feb 2024 |
-| OOP & Database Systems | Feb 2024 - Present |
 
 ### 📚 **Teaching Assistant**
 - Object Oriented Programming
